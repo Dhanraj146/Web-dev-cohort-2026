@@ -18,3 +18,4 @@ subtract(10,20);
 
 multiply(5,2);
 multiply(10,2);
+multiply(20,5);
