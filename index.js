@@ -15,3 +15,5 @@ add(30,40)
 add(50,60)
 
 subtract(10,20);
+
+multiply(5,2);
