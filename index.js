@@ -7,6 +7,7 @@ function subtract(a,b){
     return a-b;
 }
 function multiply(a,b){
+    if(a<0 || b<0) throw error("one num is negative");
     return a*b;
 }
 
